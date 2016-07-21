@@ -13,7 +13,7 @@ public class Factorial {
 		int fact=1;
 		if(num<=0)
 		{
-			System.out.println("Soory negative numbers couldn't be used for factorial");
+			System.out.println("Sorry negative numbers couldn't be used for factorial");
 		}
 		else
 		{
